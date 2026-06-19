@@ -1,4 +1,4 @@
-# Hermes Ariadne — AI 自愈记忆引擎
+# Ariadne — AI 自愈记忆引擎
 
 > **用户纠正过的事情，绝不再犯第二遍。**
 
